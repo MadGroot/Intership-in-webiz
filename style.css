@@ -1,0 +1,19 @@
+.header {
+    box-shadow: 0px 4px 10px rgba(0, 0, 255, 0.1);
+    font-family: "Poppins", sans-serif;
+}
+.startedBtn {
+    background-color: #FF707A;
+    margin-right: 124px;
+}
+.logInBtn {
+    color: #2f2643;
+    margin-right: 35px;
+}
+a.nav-link {
+    color: #2F2643;
+    margin-left: 56px;
+}
+.logo {
+    margin-left: 126px;
+}
