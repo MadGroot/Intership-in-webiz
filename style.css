@@ -20,3 +20,39 @@ a.nav-link {
 .navbar-toggler {
     margin-right: 126px;
 }
+.firstSection {
+    text-align: center;
+}
+.bigHeading {
+    padding-top: 58px;
+    font-size: 60px;
+    line-height: 72px;
+    font-family: "Poppins", sans-serif;
+    color: #190e2f;   
+}
+.medHeading {
+    padding-top: 31px;
+    padding-bottom: 34px;
+    font-size: 21px;
+    line-height: 22px;
+    color: #190e2f;
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 26px;
+}
+.btnJoin {
+    border-radius: 4px;
+    background-color: #ff707a;
+    color: white;
+    padding:20px 80px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+}
+.noCredit {
+    font-size: 14px;
+    line-height: 14px;
+    color: #524a63;
+    padding-top: 28px;
+    padding-bottom: 36px;
+    font-family: "Poppins", sans-serif;
+}
