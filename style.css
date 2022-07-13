@@ -43,7 +43,7 @@ a.nav-link {
     border-radius: 4px;
     background-color: #ff707a;
     color: white;
-    padding:20px 80px;
+    padding:20px 40px;
     font-weight: 700;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
@@ -52,7 +52,27 @@ a.nav-link {
     font-size: 14px;
     line-height: 14px;
     color: #524a63;
-    padding-top: 28px;
+    padding-top: 40px;
     padding-bottom: 36px;
     font-family: "Poppins", sans-serif;
 }
+.secondTitle {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+.secondTitle h2 {
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    padding-top: 46px;
+    color: #190E2F;
+}
+.secondTitle p {
+    font-size: 20px;
+    line-height: 34px;
+    color: #433A4A;
+    opacity: 0.8;
+    padding-top: 24px;
+    padding-bottom: 57px;
+}
+
