@@ -20,6 +20,9 @@ a.nav-link {
 .navbar-toggler {
     margin-right: 126px;
 }
+
+/* first section */
+
 .firstSection {
     text-align: center;
 }
@@ -56,6 +59,25 @@ a.nav-link {
     padding-bottom: 36px;
     font-family: "Poppins", sans-serif;
 }
+
+/* slider */
+
+.center {
+    margin: 0 auto;
+}
+.carousel-indicators button {
+    background-color: #FF707A!important;
+    width: 8px!important;
+    height: 8px!important;
+    position: relative;
+    top: 40px!important;
+    border-radius: 50%;
+}
+/* postion relative
+top41px */
+
+/* second section */
+
 .secondTitle {
     font-family: "Poppins", sans-serif;
     text-align: center;
